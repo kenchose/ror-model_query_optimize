@@ -1,3 +1,3 @@
 == README
 
-Perfecting my query skills learning with joins and includes methods using seed data
+Perfecting my query skills learning with joins and includes methods with the help of some seed data.
